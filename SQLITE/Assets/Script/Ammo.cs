@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class Ammo : MonoBehaviour
 {
+    //Datos publicos que se van a guardar en la Base de datos del JSON 
     public string Name = "ammoName";
     public int dmg = 7;
     public string Velociad = "15 M/S";
